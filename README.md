@@ -4,6 +4,9 @@ Learning CSS from Vikram Santhalia
 
 ## CSS-101
 
+- [Week 1 - Live Class Link](https://www.youtube.com/watch?v=XjxFlh9MTVs)
+- [Week 1 - Assignment Link](https://false-snowman-2ff.notion.site/Week-1-Assignment-79ad9b92636c470fab676bae1834fe49)
+
 - [x] Identify all the inline css - [commit id f8c578ff4510cb5fc427c5130ff6ee6d1c267f8a]
 
   1. Remove all the inline css and add them to a internal css block.
@@ -20,4 +23,4 @@ Learning CSS from Vikram Santhalia
   7.  `https://unpkg.com/terminal.css@0.7.2/dist/terminal.min.css`
   8.  `https://unpkg.com/@sakun/system.css`
 
-- [ ] Deploy to GitHub pages
+- [x] Deploy to GitHub pages
