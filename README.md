@@ -13,7 +13,7 @@ Learning CSS from Vikram Santhalia
   1. Remove all the inline css and add them to a internal css block.
   2. Use the browser inspector to check different properties that are applied and try changing the values.
 
-- [ ] Add external css and check the results.
+- [x] Add external css and check the results.
 
   1.  `https://cdn.jsdelivr.net/npm/water.css@2/out/water.css`
   2.  `https://cdn.jsdelivr.net/npm/spcss@0.9.0`
@@ -26,4 +26,4 @@ Learning CSS from Vikram Santhalia
 
 - [x] Deploy to GitHub pages
 
-- [ ] Add a file with all the screenshots with different styles
+- [x] Add a file with all the screenshots with different styles
