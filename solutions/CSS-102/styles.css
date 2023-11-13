@@ -70,20 +70,6 @@ h1 {
 
 section:nth-child(2n) {
   background-color: black;
-  /* background-image: linear-gradient(
-    40deg,
-    hsl(0deg 0% 4%) 0%,
-    hsl(0deg 0% 9%) 20%,
-    hsl(0deg 0% 13%) 29%,
-    hsl(0deg 0% 17%) 36%,
-    hsl(0deg 0% 22%) 43%,
-    hsl(0deg 0% 26%) 50%,
-    hsl(0deg 0% 22%) 57%,
-    hsl(0deg 0% 18%) 64%,
-    hsl(0deg 0% 14%) 71%,
-    hsl(0deg 0% 10%) 80%,
-    hsl(0deg 0% 7%) 100%
-  ); */
 }
 
 section {
@@ -262,17 +248,55 @@ section.crafts img {
 }
 
 .experience-card ul li {
+  list-style-type: none;
   margin-bottom: 2rem;
   padding: 1rem;
-  border-left: 1px solid var(--button-border-grey);
+  border-left: 2px solid var(--button-border-grey);
+}
+
+.experience-card ul li:hover {
+  border-radius: 1rem;
+  background-color: var(--button-border-grey);
+}
+
+section.contact {
+  margin-top: 2rem;
 }
 
 .contact ul {
   padding: 0;
+  margin: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-card {
+  margin: 1rem;
 }
 
 .contact ul > li {
   display: inline-block;
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  backdrop-filter: blur(10px);
+  line-height: 1.5rem;
+}
+
+.contact ul > li i {
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+.contact .article-container {
+  display: flex;
+  width: 40rem;
+}
+
+.contact article {
+  margin: 1rem;
 }
 
 /* Gradient Background */
