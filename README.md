@@ -2,11 +2,11 @@
 
 Learning CSS from Vikram Santhalia
 
-## [CSS-101](./docs/CSS-101.md)
+## [CSS-101](./notes/CSS-101-Notes.md)
 
 - [Week 1 - Live Class Link](https://www.youtube.com/watch?v=XjxFlh9MTVs)
 - [Week 1 - Assignment Link](https://false-snowman-2ff.notion.site/Week-1-Assignment-79ad9b92636c470fab676bae1834fe49)
-- [Week 1 - Solution Reference File](./docs/CSS-101.md)
+- [Week 1 - Solution Reference File](./solutions/CSS-101/CSS-101-Solution.md)
 
 - [x] Identify all the inline css
 
@@ -27,3 +27,16 @@ Learning CSS from Vikram Santhalia
 - [x] Deploy to GitHub pages
 
 - [x] Add a file with all the screenshots with different styles
+
+## [CSS-102](./docs/CSS-102-Notes.md)
+
+- [Week 2 - Live Class Link](https://www.youtube.com/watch?v=Eyg-8fJ0AD0)
+- [Week 2 - Assignment Link]()
+- [Week 2 - Solution Reference File](./solutions/CSS-102/index.html)
+
+## [CSS-103]()
+
+- [Week 3 (Part 1) - Live Cass Link](https://www.youtube.com/watch?v=nA8sOlbILEc)
+- [Week 3 (Part 2) - Live Class Link](https://www.youtube.com/watch?v=E4H2d1zQ47M)
+- [Week 3 - Assignment Link](https://false-snowman-2ff.notion.site/Week-3-module-1-Assignment-6bd5417924eb4e7d8b1769376b3b5c90)
+- [Week 3 - Solution Reference File](./solutions/CSS-103/CSS-103-Solution.md)
