@@ -4,10 +4,16 @@ Learning CSS from Vikram Santhalia
 
 ## [CSS-101](./notes/CSS-101-Notes.md)
 
+1. What is Css.
+2. Css terminology.
+3. How Css can be added to websites.
+4. How styles get loaded in websites.
+
 - [Week 1 - Live Class Link](https://www.youtube.com/watch?v=XjxFlh9MTVs)
 - [Week 1 - Assignment Link](https://false-snowman-2ff.notion.site/Week-1-Assignment-79ad9b92636c470fab676bae1834fe49)
 - [Week 1 - Solution Reference File](./solutions/CSS-101/CSS-101-Solution.md)
 
+<!--
 - [x] Identify all the inline css
 
   1. Remove all the inline css and add them to a internal css block.
@@ -28,13 +34,26 @@ Learning CSS from Vikram Santhalia
 
 - [x] Add a file with all the screenshots with different styles
 
+-->
+
 ## [CSS-102](./docs/CSS-102-Notes.md)
+
+1. Css units.
+2. Colors in Css.
+3. Typography in Css.
+4. Css properties - box-shadow | border-radius | clip-path
 
 - [Week 2 - Live Class Link](https://www.youtube.com/watch?v=Eyg-8fJ0AD0)
 - [Week 2 - Assignment Link]()
 - [Week 2 - Solution Reference File](./solutions/CSS-102/index.html)
 
 ## [CSS-103]()
+
+1. Types of Css selectors.
+2. Power of attribute selectors.
+3. Pseudo elements.
+4. Pseudo classes.
+5. Combinators.
 
 - [Week 3 (Part 1) - Live Cass Link](https://www.youtube.com/watch?v=nA8sOlbILEc)
 - [Week 3 (Part 2) - Live Class Link](https://www.youtube.com/watch?v=E4H2d1zQ47M)

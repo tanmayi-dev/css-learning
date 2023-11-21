@@ -1,5 +1,7 @@
 ## CSS Units
 
+- Root font size of browsers is 16px
+
 - px : pixels
   - absolute unit
 - % : percentage
@@ -12,8 +14,12 @@
   - lengths : 2 em = 2 \* current div size
 - rem : root em
   - relative to the root font size
-  - refers to the font-size of the root element of a document
+  - refers to the font-size of the root element of a document - by default root font-size is 16px
+  - To make it 10px we use 62.5%
   - font size : 62.5%
+  - https://m2.material.io/design/typography/the-type-system.html#type-scale
+  - https://www.aleksandrhovhannisyan.com/blog/62-5-percent-font-size-trick/
+  - https://www.youtube.com/watch?v=BPsrVVOKMLc
 - ch : character width
   - the width of the character 0 (zero, or U+0030) of the font
 - vh : viewport height
