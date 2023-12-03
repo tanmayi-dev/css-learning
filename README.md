@@ -2,6 +2,11 @@
 
 Learning CSS from Vikram Santhalia
 
+CSS101: https://youtu.be/XjxFlh9MTVs
+CSS102: https://youtu.be/Eyg-8fJ0AD0
+CSS103: https://youtu.be/nA8sOlbILEc + https://youtu.be/E4H2d1zQ47M
+CSS104: https://youtu.be/ZpHM9dcI8So
+
 ## [CSS-101](./notes/CSS-101-Notes.md)
 
 1. What is Css.
@@ -55,7 +60,14 @@ Learning CSS from Vikram Santhalia
 4. Pseudo classes.
 5. Combinators.
 
-- [Week 3 (Part 1) - Live Cass Link](https://www.youtube.com/watch?v=nA8sOlbILEc)
+- [Week 3 (Part 1) - Live Class Link](https://www.youtube.com/watch?v=nA8sOlbILEc)
 - [Week 3 (Part 2) - Live Class Link](https://www.youtube.com/watch?v=E4H2d1zQ47M)
 - [Week 3 - Assignment Link](https://false-snowman-2ff.notion.site/Week-3-module-1-Assignment-6bd5417924eb4e7d8b1769376b3b5c90)
 - [Week 3 - Solution Reference File](./solutions/CSS-103/CSS-103-Solution.md)
+
+## [CSS-104]()
+
+1. Specificity
+
+- [Week 4 - Live Class Link](https://youtu.be/ZpHM9dcI8So)
+- [Week 4 - Assignment Link](https://false-snowman-2ff.notion.site/Week-4-Assignment-366fb571756f47d3bf337e9e45bdea4a)

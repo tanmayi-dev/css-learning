@@ -1,5 +1,11 @@
 # Cascading and Speficity
 
+### References
+
+- https://estelle.github.io/CSS/selectors/exercises/specificity.html
+- https://www.youtube.com/watch?v=c0kfcP_nD9E
+- https://stuffandnonsense.co.uk/archives/css_specificity_wars.html
+
 ## What is meant by cascade?
 
 - Process of combing different stylesheets and resolivng conflicts between the CSS rules and declarations. THis happens in distinct stages or steps.
@@ -75,6 +81,9 @@ Example of Transition has higher specifity over !important :
   | normal styles | author styles | type or pseudo element |
   | | user styles |
   | | browser default |
+
+  ![](./css-104/1.png)
+  ![](./css-105/units.jpg)
 
 ## Pseudo Classes and Elements difference
 
