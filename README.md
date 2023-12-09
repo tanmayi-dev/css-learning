@@ -71,3 +71,10 @@ CSS104: https://youtu.be/ZpHM9dcI8So
 
 - [Week 4 - Live Class Link](https://youtu.be/ZpHM9dcI8So)
 - [Week 4 - Assignment Link](https://false-snowman-2ff.notion.site/Week-4-Assignment-366fb571756f47d3bf337e9e45bdea4a)
+- [Week 4 - Solution Reference File](./solutions/CSS-104/README.md)
+
+## [CSS-105]()
+
+- [Week 5 - Live Class Link](https://youtu.be/z61O5BlFlgU)
+- [Week 5 - Assignment Link](https://foregoing-bongo-b41.notion.site/Assignment-5-09c4516ea21a484a836a1c358e21f69e)
+- [Week 5 - Solution Reference File](./solutions/CSS-105/README.md)
